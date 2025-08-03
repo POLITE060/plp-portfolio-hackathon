@@ -1,5 +1,5 @@
 # July 2025 Cohort Hackathon 1: Portfolio Challenge
-[<img src="assets/images/welcome-cover.png" alt="welcome cover image">] (https://polite060.github.io/plp-portfolio-hackathon/)
+[<img src="assets/images/welcome-cover.png" alt="welcome cover image">](https://polite060.github.io/plp-portfolio-hackathon/)
 <br><br>
 
 ### Overview
@@ -18,3 +18,4 @@ Welcome to my portfolio! This project showcases who I am, my background, interes
 ### Preview
 
 [✦ Live Preview ✦](https://polite060.github.io/plp-portfolio-hackathon/)
+
