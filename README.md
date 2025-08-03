@@ -12,10 +12,13 @@ Welcome to my portfolio! This project showcases who I am, my background, interes
 🔹 A Home landing page<br>
 🔹 About section<br>
 🔹 Skills section<br>
+🔹 Interests section<br>
+🔹 Education section<br>
 🔹 Contact section with basic call-to-action<br>
 🔹 Mobile Responsive layout<br>
 
 ### Preview
 
 [✦ Live Preview ✦](https://polite060.github.io/plp-portfolio-hackathon/)
+
 
