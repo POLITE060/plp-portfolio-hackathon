@@ -365,6 +365,60 @@ img {
   border-radius: 0.5rem;
 }
 
+/* ===== INTERESTS =====*/
+.interests__container {
+  row-gap: 2rem;
+}
+
+.interests__subtitle {
+  font-size: var(--h2-font-size);
+  margin-bottom: var(--mb-2);
+}
+
+.interests__text {
+  margin-bottom: var(--mb-4);
+}
+
+.interests__data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  font-weight: var(--font-semi);
+  padding: 0.5rem 0;
+}
+
+.interests__icon {
+  font-size: 1.2rem;
+  margin-right: var(--mb-2);
+  color: var(--first-color);
+}
+
+.interests__names {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--mb-2);
+}
+
+.interests__name {
+  font-weight: var(--font-semi);
+  margin-left: 0.5rem;
+}
+
+.interests__description {
+  margin-left: 2rem;
+}
+
+.interests__description p {
+  font-size: var(--smaller-font-size);
+  color: var(--second-color);
+  opacity: 0.8;
+}
+
+.interests__img {
+  border-radius: 0.5rem;
+}
+
 /* ===== WORK =====*/
 .work__container {
   row-gap: 2rem;
